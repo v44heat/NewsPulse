@@ -6,29 +6,7 @@ A modern, full-featured news aggregation web application built with React, TypeS
 
 ---
 
-## ✨ Features
 
-| Feature | Status |
-|---|---|
-| Top Headlines (by category) | ✅ |
-| Global Search with debounce | ✅ |
-| Category Filtering (7 categories) | ✅ |
-| Trending Topics | ✅ |
-| Article Detail Page | ✅ |
-| Bookmarks (LocalStorage) | ✅ |
-| Recently Viewed Articles | ✅ |
-| News Sources Browser | ✅ |
-| Analytics Dashboard (Recharts) | ✅ |
-| AI Article Summaries (Claude API) | ✅ |
-| Dark Mode (persistent) | ✅ |
-| Sharing (X, WhatsApp, Copy Link) | ✅ |
-| Pagination | ✅ |
-| Loading Skeletons | ✅ |
-| Error States & Retry | ✅ |
-| Responsive (Mobile/Tablet/Desktop) | ✅ |
-| Recent Searches | ✅ |
-
----
 
 ## 🚀 Quick Start
 
