@@ -129,24 +129,7 @@ The API call is made directly from the browser. For production, route this throu
 
 ---
 
-## 🏗️ Production Build
 
-```bash
-npm run build
-```
-
-Output in `dist/`. Deploy to:
-
-### Vercel
-```bash
-npm i -g vercel
-vercel
-```
-
-Set `VITE_NEWS_API_KEY` in Vercel dashboard → Project Settings → Environment Variables.
-
-### Netlify
-Drag the `dist/` folder into [app.netlify.com](https://app.netlify.com) or use the CLI.
 
 ---
 
