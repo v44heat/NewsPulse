@@ -117,17 +117,6 @@ src/
 
 ---
 
-## 🤖 AI Summaries (Optional)
-
-Article detail pages include an AI summary button powered by the **Claude API** (Anthropic).
-
-When clicked, it sends the article title, description, and content to Claude and returns:
-- A 2–3 sentence summary
-- 3 key bullet points
-
-The API call is made directly from the browser. For production, route this through a backend to protect your API key.
-
----
 
 
 
